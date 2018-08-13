@@ -8,16 +8,17 @@ Programming that I do in a DOSBox environment.
 |       Line 1   Col 1   Insert   Indent  Tab   Fill   Unindent   E:NONAME.C    |
 |                                                                               |
 |                                                                               |
-|                     --------------------------------                          |
+|                                                                               |
+|                     ---------------------------------                         |
 |                     |                               |                         |
 |                     |           Turbo C             |                         |
 |                     |                               |                         |
-|                     |                               |                         |
-|                     |        Version 2.01           |                         |
+|                     |          Version 2.01         |                         |
 |                     |  Copyright (c) 1987, 1988 by  |                         |
 |                     |  Borland International, Inc.  |                         |
 |                     |                               |                         |
-|                     --------------------------------                          |
+|                     ---------------------------------                         |
+|                                                                               |
 |                                                                               |
 |                                                                               |
 |----------------------------------- Message -----------------------------------|
