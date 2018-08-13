@@ -6,9 +6,9 @@ Programming that I do in a DOSBox environment.
 Turbo C
 
 
-Version 2.01
+      Version 2.01
 
-Copyright (c) 1987 by
+Copyright (c) 1987, 1988 by
 
 Borland International, Inc.
 ```
