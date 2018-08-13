@@ -24,7 +24,7 @@ Programming that I do in a DOSBox environment.
 |----------------------------------- Message -----------------------------------|
 |                                                                               |
 |_______________________________________________________________________________|
-  F1-Help  F5-Zoom  F6-Switch  F7-Trace  F8-Step  F9-Make  F10-Menu              
+  F1-Help  F5-Zoom  F6-Switch  F7-Trace  F8-Step  F9-Make  F10-Menu               
 ```
 
 Sadly I cannot legally redistribute the software, but I can only link to the software.
