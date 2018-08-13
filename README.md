@@ -3,26 +3,17 @@ Programming that I do in a DOSBox environment.
 
 ## Compiled using Borland Turbo C v2.01.
 ```
-        Turbo C
-
-
-      Version 2.01
-
-Copyright (c) 1987, 1988 by
-
-Borland International, Inc.
+--------------------------------
+|          Turbo C              |
+|                               |
+|                               |
+|        Version 2.01           |
+|                               |
+|  Copyright (c) 1987, 1988 by  |
+|                               |
+|  Borland International, Inc.  |
+--------------------------------
 ```
-<table BORDERCOLOR="RED">
-        <tr>
-                <td>
-  Turbo C
-  
-  Version 2.01
-Copyright (c) 1987, 1988 by
-Borland International, Inc.
-                </td>
-        </tr>
-</table>
 
 Sadly I cannot legally redistribute the software, but I can only link to the software.
 
