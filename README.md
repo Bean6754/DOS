@@ -9,14 +9,14 @@ Programming that I do in a DOSBox environment.
 |                                                                               |
 |                                                                               |
 |                     --------------------------------                          |
-|                     |          Turbo C              |                         |
+|                     |                               |                         |
+|                     |           Turbo C             |                         |
 |                     |                               |                         |
 |                     |                               |                         |
 |                     |        Version 2.01           |                         |
-|                     |                               |                         |
 |                     |  Copyright (c) 1987, 1988 by  |                         |
-|                     |                               |                         |
 |                     |  Borland International, Inc.  |                         |
+|                     |                               |                         |
 |                     --------------------------------                          |
 |                                                                               |
 |                                                                               |
