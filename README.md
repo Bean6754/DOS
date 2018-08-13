@@ -3,16 +3,18 @@ Programming that I do in a DOSBox environment.
 
 ## Compiled using Borland Turbo C v2.01.
 ```
---------------------------------
-|          Turbo C              |
-|                               |
-|                               |
-|        Version 2.01           |
-|                               |
-|  Copyright (c) 1987, 1988 by  |
-|                               |
-|  Borland International, Inc.  |
---------------------------------
+  File  Edit  Run  Compile  Project  Options  Debug  Break/watch
+================================Edit================================
+                --------------------------------
+                |          Turbo C              |
+                |                               |
+                |                               |
+                |        Version 2.01           |
+                |                               |
+                |  Copyright (c) 1987, 1988 by  |
+                |                               |
+                |  Borland International, Inc.  |
+                --------------------------------
 ```
 
 Sadly I cannot legally redistribute the software, but I can only link to the software.
