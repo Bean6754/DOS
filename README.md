@@ -12,7 +12,7 @@ Copyright (c) 1987, 1988 by
 
 Borland International, Inc.
 ```
-<table>
+<table BORDERCOLOR="RED">
         <tr>
                 <td>
   Turbo C
