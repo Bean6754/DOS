@@ -12,6 +12,17 @@ Copyright (c) 1987, 1988 by
 
 Borland International, Inc.
 ```
+<table>
+        <tr>
+                <td>
+  Turbo C
+  
+  Version 2.01
+Copyright (c) 1987, 1988 by
+Borland International, Inc.
+                </td>
+        </tr>
+</table>
 
 Sadly I cannot legally redistribute the software, but I can only link to the software.
 
