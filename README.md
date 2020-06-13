@@ -1,5 +1,5 @@
 # DOS
-Programming that I do in a DOSBox environment.
+Programming that I do in FreeDOS.
 
 ## Compiled using Borland Turbo C v2.01.
 ```
